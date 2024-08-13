@@ -1,0 +1,1 @@
+{nome de usuário:santos:senha:santos:hwid:BFEBFBFF000306F2:expira:28/06/2025}
